@@ -1,7 +1,7 @@
 # 🛍️ RetailMax – E-commerce Website
 
 RetailMax is a modern, fully responsive **front-end e-commerce website** built with **HTML**, **CSS**, and **JavaScript**.  
-It provides an engaging shopping experience with product listings, a shopping cart, and smooth navigation – all without any backend frameworks.
+It provides an engaging shopping experience with product listings, a shopping cart, and smooth navigation .
 
 ---
 
